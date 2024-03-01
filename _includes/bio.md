@@ -1,0 +1,3 @@
+## Bio
+
+I am currently a PhD candidate in Computer Science at the <a href="https://ic.unicamp.br/en/" target="_blank">Institute of Computing, University of Campinas</a>. In my ongoing research, I study combinatorial optimization problems related to the spread of information on social networks. In particular, I work on designing mathematical formulations, exact algorithms and heuristics for the problems I investigate. I develop my research at the <a href="https://loco.ic.unicamp.br" target="_blank">Laboratory of Optimization and Combinatorics</a>
