@@ -1,53 +1,40 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 style="margin-top:50px;">Publications</h2>
 
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %}
-
-</ol>
+<div>
+<a href="https://sites.google.com/view/cpaior2024" target="_blank">[2024] Minimizing the Cost of Leveraging Influencers in Social Networks: IP and CP Approaches</a><br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Tallys Yunes<br>
+<em>Conference: 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2024)</em><br>
+<i style="color:#ff6060">Accepted, but not published yet</i>
 </div>
 
+<div style="margin-top:20px;">
+<a href="https://doi.org/10.1016/j.osnem.2023.100255" target="_blank">[2023] The Least Cost Directed Perfect Awareness Problem: complexity, algorithms and computations</a><br>
+<strong>Felipe de C. Pereira</strong> and Pedro J. de Rezende<br>
+<em>Journal: Online Social Networks and Media</em><br>
+</div>
+
+<div style="margin-top:20px;">
+<a href="https://doi.org/10.5753/ctd.2022.222955" target="_blank">[2022] A Computational Study of the Perfect Awareness Problem</a><br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Cid C. de Souza<br>
+<em>Conference: XXXV Theses and Dissertations Contest of the Brazilian Computer Society (CTD/CSBC 2022)</em><br>
+</div>
+
+<div style="margin-top:20px;">
+<a href="https://doi.org/10.1016/j.procs.2021.11.059" target="_blank">[2021] Effective Heuristics for the Perfect Awareness Problem</a><br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Cid C. de Souza<br>
+<em>Conference: XI Latin and American Algorithms, Graphs and Optimization Symposium (LAGOS 2021)</em><br>
+</div>
+
+<div style="margin-top:20px;">
+[2020] Exact Algorithms and Heuristics for the Perfect
+Awareness Problem (<a href="https://www.ime.usp.br/~latin2020/posters/poster05.pdf" target="_blank">poster</a> and <a href="https://latin2020.ime.usp.br/posters/resumo05.pdf" target="_blank">abstract</a>)<br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Cid C. de Souza<br>
+<em>Conference: 14th Latin American Theoretical Informatics Symposium (LATIN 2020)</em><br>
+</div>
+
+<div style="margin-top:20px;">
+<a href="https://doi.org/10.1007/978-3-319-96151-4_3" target="_blank">[2018] The Next Release Problem: Complexity,
+Exact Algorithms and Computations</a><br>
+José C. Almeida, <strong>Felipe de C. Pereira</strong>, Marina V. A. Reis, and Breno P. Ribeiro<br>
+<em>Conference: X International Symposium on Combinatorial Optimization (ISCO 2018)</em><br>
+</div>
