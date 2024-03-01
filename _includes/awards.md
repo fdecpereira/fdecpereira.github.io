@@ -1,13 +1,13 @@
 <h2 style="margin-top:50px;">Awards and Honors</h2>
 
 <strong>[2023] First-place prize in the UniSoma Challenge, a hackathon in mathematical optimization</strong><br>
-Team: <strong>Felipe de C. Pereira</strong>, Ana P. dos S. Dantas and Klairton de L. Brito
+Team: <strong>Felipe de C. Pereira</strong>, Ana P. S. Dantas and Klairton de L. Brito
 
 <strong>[2022] Third-place prize in the XXXV Contest of Theses and Dissertations of the Brazilian Computer Society (CTD/CSBC 2022)</strong><br>
 Category: Master's dissertations<br>
 
-<strong>[2017] Honorable Mention in the 2017 ACM ICPC South America/Brazil Finals</strong><br>
-Team: <strong>Felipe de C. Pereira</strong>, Marina V. A. Reis and João V. R. Viana<br>
+<strong>[2017] Honorable Mention in the ACM ICPC South America/Brazil Finals</strong><br>
+Team: Marina V. A. Reis, João V. R. Viana and <strong>Felipe de C. Pereira</strong><br>
 Coach: André B. de Carvalho
 
 <strong>[2016] Honorable Mention in the ACM ICPC South America/Brazil First Phase</strong><br>

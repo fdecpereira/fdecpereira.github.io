@@ -3,12 +3,12 @@ title: Felipe de C. Pereira
 position: PhD Candidate
 affiliation: Institute of Computing<br>University of Campinas<br>
 affiliation_link: https://ic.unicamp.br/en
-email: fdecpereira [at] gmail [dot] com
+email: fdecpereira@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Felipe Pereira UNICAMP LOCo
+description: Felipe de C. Pereira's personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -31,7 +31,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: false
+auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
