@@ -35,6 +35,6 @@ Awareness Problem (<a href="https://www.ime.usp.br/~latin2020/posters/poster05.p
 <div style="margin-top:20px;">
 <a href="https://doi.org/10.1007/978-3-319-96151-4_3" target="_blank">[2018] The Next Release Problem: Complexity,
 Exact Algorithms and Computations</a><br>
-José C. Almeida, <strong>Felipe de C. Pereira</strong>, Marina V. A. Reis, and Breno P. Ribeiro<br>
+José C. A. Júnior, <strong>Felipe de C. Pereira</strong>, Marina V. A. Reis, and Breno P. Ribeiro<br>
 <em>Conference: X International Symposium on Combinatorial Optimization (ISCO 2018)</em><br>
 </div>
