@@ -1,10 +1,9 @@
 <h2 style="margin-top:50px;">Publications</h2>
 
 <div>
-<a href="https://sites.google.com/view/cpaior2024" target="_blank">[2024] Minimizing the Cost of Leveraging Influencers in Social Networks: IP and CP Approaches</a><br>
+<a href="https://doi.org/10.1007/978-3-031-60599-4_7" target="_blank">[2024] Minimizing the Cost of Leveraging Influencers in Social Networks: IP and CP Approaches</a><br>
 <strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Tallys Yunes<br>
 <em>Conference: 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2024)</em><br>
-<i style="color:#ff6060">Accepted, but not published yet</i>
 </div>
 
 <div style="margin-top:20px;">
