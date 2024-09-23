@@ -1,15 +1,15 @@
 <h2 style="margin-top:50px;">Publications</h2>
 
 <div>
-<a href="https://doi.org/10.1007/978-3-031-60599-4_7" target="_blank">[2024] Minimizing the Cost of Leveraging Influencers in Social Networks: IP and CP Approaches</a><br>
-<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Tallys Yunes<br>
-<em>Conference: 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2024)</em><br>
+<a href="https://doi.org/10.4230/LIPIcs.ESA.2024.94" target="_blank">[2024] A Row Generation Algorithm for Finding Optimal Burning Sequences of Large Graphs</a><br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende, Tallys Yunes and Luiz F. B. Morato<br>
+<em>Conference: 32nd Annual European Symposium on Algorithms (ESA 2024)</em><br>
 </div>
 
 <div style="margin-top:20px;">
-<a href="https://doi.org/10.48550/arXiv.2404.17080" target="_blank">[2024] Solving the Graph Burning Problem for Large Graphs <i>(Preprint)</i></a><br>
-<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende, Tallys Yunes and Luiz F. B. Morato<br>
-<em>arXiv</em><br>
+<a href="https://doi.org/10.1007/978-3-031-60599-4_7" target="_blank">[2024] Minimizing the Cost of Leveraging Influencers in Social Networks: IP and CP Approaches</a><br>
+<strong>Felipe de C. Pereira</strong>, Pedro J. de Rezende and Tallys Yunes<br>
+<em>Conference: 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2024)</em><br>
 </div>
 
 <div style="margin-top:20px;">
