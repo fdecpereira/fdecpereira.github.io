@@ -5,7 +5,7 @@
 <strong>[2021 - present] PhD Candidate in Computer Science, University of Campinas, Brazil</strong><br>
  Advisor: <a href="https://www.ic.unicamp.br/~rezende/" target="_blank"> Pedro J. de Rezende</a> (University of Campinas, Brazil)<br>
  Co-advisor: <a href="https://thyunes.github.io/" target="_blank"> Tallys Yunes</a> (University of Miami, US)<br>
- [Feb 2023 - April 2023] Visiting Research Scholar at the Department of Management Science - University of Miami, US
+ Visiting Research Scholar at the <a href="https://www.herbert.miami.edu/faculty-research/academic-departments/management-science/index.html" target="_blank"> Miami Herbert's Department of Management Science</a>, University of Miami, US (Feb/2023 - Apr/2023)
 </div>
 
 <div style="margin-top:20px;">

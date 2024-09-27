@@ -8,9 +8,9 @@ layout: homepage
 
 {% include_relative _includes/education.md %}
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/experience.md %}
 
-{% include_relative _includes/teaching.md %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/skills.md %}
 
