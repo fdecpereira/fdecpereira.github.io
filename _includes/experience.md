@@ -1,6 +1,11 @@
 <h2 style="margin-top:50px;">Experience</h2>
 
 <div>
+<strong>[Oct/2024 - present] Applied Scientist Intern at Amazon, Bellevue, US</strong><br>
+Fulfillment Optimization
+</div>
+
+<div style="margin-top:20px;">
 <strong>[2020 - 2024] Graduate Teaching Assistant at the University of Campinas, Brazil</strong><br>
 Courses:  Mathematical Foundations of Computing (6 semesters) and Design and Analysis
 of Algorithms (1 semester)
