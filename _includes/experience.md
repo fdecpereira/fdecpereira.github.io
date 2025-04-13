@@ -1,7 +1,12 @@
 <h2 style="margin-top:50px;">Experience</h2>
 
 <div>
-<strong>[Oct/2024 - present] Applied Scientist Intern at Amazon, Bellevue, US</strong><br>
+<strong>[Apr/2025 - present] Professor at the Federal University of Sergipe, Brazil</strong><br>
+Theory of Computation and Algorithms
+</div>
+
+<div style="margin-top:20px;">
+<strong>[Oct/2024 - Jan/2025] Applied Scientist Intern at Amazon, Bellevue, US</strong><br>
 Fulfillment Optimization
 </div>
 
