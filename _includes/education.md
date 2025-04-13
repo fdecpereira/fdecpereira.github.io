@@ -3,7 +3,7 @@
 
 <div>
 <strong>[2021 - 2025] PhD in Computer Science, University of Campinas, Brazil</strong><br>
- PhD Dissertation: Exact Algorithms and Heuristics for Optimization Problems on the Spread of Information on Social Networks
+ PhD Dissertation: Exact Algorithms and Heuristics for Optimization Problems on the Spread of Information on Social Networks<br>
  Advisor: <a href="https://www.ic.unicamp.br/~rezende/" target="_blank"> Pedro J. de Rezende</a> (University of Campinas, Brazil)<br>
  Co-advisor: <a href="https://thyunes.github.io/" target="_blank"> Tallys Yunes</a> (University of Miami, US)<br>
  Visiting Research Scholar at the <a href="https://www.herbert.miami.edu/faculty-research/academic-departments/management-science/index.html" target="_blank"> Miami Herbert's Department of Management Science</a>, University of Miami, US (Feb/2023 - Apr/2023)
