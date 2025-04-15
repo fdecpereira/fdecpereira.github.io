@@ -1,7 +1,7 @@
 <h2 style="margin-top:50px;">Experience</h2>
 
 <div>
-<strong>[Apr/2025 - present] Professor at the Federal University of Sergipe, Brazil</strong><br>
+<strong>[Mar/2025 - present] Professor at the Federal University of Sergipe, Brazil</strong><br>
 Theory of Computation and Algorithms
 </div>
 
